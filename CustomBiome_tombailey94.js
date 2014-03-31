@@ -5,7 +5,7 @@ var AIR = 0;
 var LAVA = 10;
 var OBSIDIAN = 49;
 var NETHERRACK = 87;
-var GLOWSTONE = 89;
+var GLOWSTONE = 89; nether portle 
 
 
 function newLevel() {
