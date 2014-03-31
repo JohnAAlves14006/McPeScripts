@@ -5,11 +5,9 @@ var AIR = 0;
 var LAVA = 10;
 var OBSIDIAN = 49;
 var NETHERRACK = 87;
-var GLOWSTONE = 89;
-
-
+var GLOWSTONE = 87
 function newLevel() {
-	//var x = Math.floor(Math.random()*(256)); //random number between 0 and 255
+var netherportl activation	//var x = Math.floor(Math.random()*(256)); //random number between 0 and 255
 	//var y = Math.floor(Math.random()*(256)); //random number between 0 and 255
 	//var z = Math.floor(Math.random()*(256)); //random number between 0 and 255
 	var x = 0;
